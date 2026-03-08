@@ -35,4 +35,4 @@ cd vigil && cp .env.example .env && npm install && npm start
 | **Repo** | [vigil-agency/vigil](https://github.com/vigil-agency/vigil) |
 | **Website** | [vigil.agency](https://vigil.agency) |
 | **License** | AGPL-3.0 |
-| **Contact** | hello@vigil.agency |
+| **Contact** | vigil@autopilotaitech.com |
